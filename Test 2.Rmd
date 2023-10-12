@@ -1,0 +1,12 @@
+---
+title: "Test"
+output: html_document
+date: "2023-10-12"
+---
+
+```{r}
+load("~/Documents/AAAAA ECO B2000/Household_Pulse_data_w57.RData")
+```
+```{r}
+summary(Household_Pulse_data)
+```
